@@ -1,0 +1,70 @@
+body{
+  background-image: url("https://t4.ftcdn.net/jpg/02/14/31/63/240_F_214316329_vX8WM2z1DLYfzcyRxqOenc9SJV7gXOyJ.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1{
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    margin-top:25px;
+    margin-left: 20%;
+}
+
+.my-button {
+  background-color:white;
+  border: none;
+  
+  color:rgb(28, 25, 25);  
+  padding: 30px 50px;
+  text-align: center;
+  width: 40%;
+  margin-top: 50px;
+  margin-left: 10%;
+  text-decoration: none;
+  display: block;
+  justify-content: center;  
+  align-items: center;  
+  font-size: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+.my-button1 {
+  background-color:white;
+  border: none;
+  
+  color:rgb(28, 25, 25);  
+  padding: 30px 50px;
+  text-align: center;
+  width: 40%;
+  margin-top: 50px;
+  margin-left: 10%;
+  text-decoration: none;
+  display: block;
+  justify-content: center;  
+  align-items: center;  
+  font-size: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.my-button:hover {
+  background-color: #52d1ea; /* Dark green */
+}
+
+.my-button1:hover {
+  background-color: #52d1ea; /* Dark green */
+}
+
+h2{
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    margin-top:25px;
+    margin-left: 20%;
+}
